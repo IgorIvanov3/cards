@@ -1,0 +1,1 @@
+export const data = require('./data/narrow-wide-narrow.js'); //имя файла с входными данными
